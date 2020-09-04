@@ -1,6 +1,6 @@
-# CheatSheets-Collection
+# Cheat Sheets Collection
 
-> A collection of CheatSheets, Imported from a Korean website : [appletree.or.kr](https://appletree.or.kr/) to Github because we love Github ♥️
+> A collection of Cheat Sheets, Imported from a Korean website : [appletree.or.kr](https://appletree.or.kr/) to Github because we love Github ♥️
 
 ### Here you can find CheatSheets of : 
 
