@@ -1,5 +1,7 @@
 # Cheat Sheets Collection
 
+![](https://i.imgur.com/vy5L0qO.png)
+
 > A collection of Cheat Sheets, Imported from a Korean website : [appletree.or.kr](https://appletree.or.kr/) to Github because we love Github ♥️
 
 ### Here you can find CheatSheets of : 
