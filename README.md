@@ -1,7 +1,8 @@
 # CheatSheets-Collection
-A collection of CheatSheets, Imported from a Korean website : [appletree.or.kr](https://appletree.or.kr/) to Github because we love Github ♥️
 
-Here you can find CheatSheets of : 
+> A collection of CheatSheets, Imported from a Korean website : [appletree.or.kr](https://appletree.or.kr/) to Github because we love Github ♥️
+
+### Here you can find CheatSheets of : 
 
 | Name                   | Location                                                                                     |
 |------------------------|----------------------------------------------------------------------------------------------|
@@ -37,3 +38,7 @@ Here you can find CheatSheets of :
 | XML-XSLT-UML           | https://github.com/SofianeHamlaoui/CheatSheets-Collection/tree/master/XML-XSLT-UML           |
 | Others                 | https://github.com/SofianeHamlaoui/CheatSheets-Collection/tree/master/Others                 |
 
+# Contribute : 
+You can Add your own CheatSheets by doing a PR
+
+### All the contents contained here are property of their respective owners.
